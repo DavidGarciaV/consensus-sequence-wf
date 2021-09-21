@@ -3,6 +3,8 @@
 ## Recursos 
 
 - Burrows-Wheeler Aligner (bwa) --> gcc, make, zlib 
+- mosdepth
+- bedtools
 - samtools, bcftools, htslib --> """"""
 - tabix
 ---
